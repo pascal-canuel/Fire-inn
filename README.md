@@ -1,6 +1,6 @@
 # Fire-inn
 Gagnant du prix coup de coeur Frima Studio à la 3e édition de l’Intercollégial de création de jeux vidéo.\
-Thème : L'auberge\
+Thème : L'auberge
 
 Version WebGL (lente) : https://pascal-canuel.github.io/Fire-inn-WebGL/\
 
