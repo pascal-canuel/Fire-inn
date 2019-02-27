@@ -2,7 +2,8 @@
 Gagnant du prix coup de coeur Frima Studio à la 3e édition de l’Intercollégial de création de jeux vidéo.\
 Thème : L'auberge
 
-Version WebGL (lente) : https://pascal-canuel.github.io/Fire-inn-WebGL/\
+Version WebGL (lente) : https://pascal-canuel.github.io/Fire-inn-WebGL/ \
+Assets : https://github.com/pascal-canuel/LowPolyMedievalAssetsPack/ 
 
 Les Héxabooléens :\
 Pascal Canuel\
