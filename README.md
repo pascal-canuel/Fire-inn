@@ -12,4 +12,4 @@ Léo Bélanger\
 Charles Gourde-Talbot\
 Justin Roberge-Lavoie\
 Thomas Leclerc\
-Esteban Chouinard\
+Esteban Chouinard
